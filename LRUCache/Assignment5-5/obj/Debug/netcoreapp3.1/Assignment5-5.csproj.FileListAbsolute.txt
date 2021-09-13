@@ -1,0 +1,13 @@
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\bin\Debug\netcoreapp3.1\Assignment5-5.exe
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\bin\Debug\netcoreapp3.1\Assignment5-5.deps.json
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\bin\Debug\netcoreapp3.1\Assignment5-5.runtimeconfig.json
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\bin\Debug\netcoreapp3.1\Assignment5-5.runtimeconfig.dev.json
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\bin\Debug\netcoreapp3.1\Assignment5-5.dll
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\bin\Debug\netcoreapp3.1\Assignment5-5.pdb
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\obj\Debug\netcoreapp3.1\Assignment5-5.csprojAssemblyReference.cache
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\obj\Debug\netcoreapp3.1\Assignment5-5.csproj.CoreCompileInputs.cache
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\obj\Debug\netcoreapp3.1\Assignment5-5.AssemblyInfoInputs.cache
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\obj\Debug\netcoreapp3.1\Assignment5-5.AssemblyInfo.cs
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\obj\Debug\netcoreapp3.1\Assignment5-5.dll
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\obj\Debug\netcoreapp3.1\Assignment5-5.pdb
+C:\Users\Shwet\source\repos\Assignment5-5\Assignment5-5\obj\Debug\netcoreapp3.1\Assignment5-5.genruntimeconfig.cache
